@@ -2,6 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* Global CSS */
+:root {
+        --primar-color: #f8ba3f;
+        --secondary-color: #FFE194;
+        --light-color: #E8F6EF;
+        --accent-color: #B8DFD8;
+    
+    }
+    
 body{
         margin:0;
         padding:0;
